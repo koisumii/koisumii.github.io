@@ -1,6 +1,6 @@
 export const bio = [
-  "Hi! I'm Rania Mustafa, a soon-to-be Computer Science graduate from John Abbott College.",
-  "I love exploring new technologies, solving problems, and creating fun projects.",
+  "Hi! I'm Rania Mustafa, a soon-to-be Computer Science graduate from John Abbott College. I thrive on learning and diving into problems to find clean, maintainable solutions instead of quick fixes.",
+  "Whether it's building creative projects or solving complex challenges, I put my heart and soul into everything I work on and often feel personally connected to the things I create.",
   "Thanks for stopping by!"
 ];
 

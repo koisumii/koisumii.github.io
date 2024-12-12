@@ -151,6 +151,8 @@ import { URLs } from './user-data/urls.js';
     let a = document.createElement("a");
     a.target = "_blank";
   
+    a.append(h4)
+
     let img = document.createElement("img");
     img.className = "img-fluid";
   
@@ -211,7 +213,7 @@ import { URLs } from './user-data/urls.js';
         projectdesign.append(hr.cloneNode(true));
       }
     }
-    
+
     const webProjectsSubmenu = document.getElementById("web-projects"); 
     if (webProjectsSubmenu) {
       webProjectsSubmenu.style.display = "block"; 
